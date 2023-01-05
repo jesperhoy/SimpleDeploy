@@ -88,7 +88,7 @@
         <span class="navbar-text">&copy; 2021</span>&nbsp;
         <a class="nav-link" href="https://jesperhoy.dev" target="_blank">Jesper Høy</a>
         <span class="navbar-text px-3">&bull;</span>
-        <a class="nav-link" href="https://simpledeploy.dev" target="_blank">Offical Website</a>
+        <a class="nav-link" href="https://simpledeploy.jesperhoy.dev" target="_blank">Offical Website</a>
         <span class="navbar-text px-3">&bull;</span>
         <a class="nav-link" href="https://github.com/jesperhoy/SimpleDeploy" target="_blank">GitHub</a>
       </div>
