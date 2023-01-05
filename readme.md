@@ -22,4 +22,4 @@ IIS webhook endpoint for GitHub / GitLab / BitBucket* for easy web-site publishi
 Simple Deploy is an open-source project licensed with a MIT License.
 
 
-See <https://simpledeploy.dev>
+See <https://simpledeploy.jesperhoy.dev>
